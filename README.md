@@ -23,3 +23,5 @@ This project demonstrates digital forensic techniques commonly used when examini
 - MD5 and SHA-1 hash verification
 - Logical forensic acquisition
 - Evidence integrity validation
+
+Digital forensic case study demonstrating BitLocker encryption analysis, recovery key identification, logical evidence acquisition, and cryptographic hash validation using industry-standard forensic procedures.
